@@ -25,7 +25,7 @@ Bluetooth Classic x Low Energy
 Em comum
 - 2.4GHz
 - Tecnologia de pareamento, autenticação, criptografia
-- Master/Slave Mode 
+- Master/Slave Mode
 #### BLE Server
 - Download aplicativo: nRF Connect
 - Exemplo Arduino: BLE_server
@@ -38,11 +38,24 @@ Diferenças
 - mais informações sobre GAAT: http://dev.ti.com/tirex/content/simplelink_cc2640r2_sdk_1_40_00_45/docs/blestack/ble_user_guide/html/ble-stack-3.x/gatt.html
 - serviços: https://www.bluetooth.com/specifications/gatt/services/
 - características: https://www.bluetooth.com/specifications/gatt/characteristics/
-
-
+- exemplo: BLE_server e BLE_write
 
 ### Aula 3: Detectando dispositivo
+
+#### BLEScan
+- programa para encontrar dispositivos: BLEScan -> detectorBLE
+#### Smartphone BLE
+- para detectar o Smartphone como uma dispositivo bloetooth LE: advertiser -> + -> adicionar Smartphone. Cria um MAC, faz scan do telefone.
+#### Filtrando o Scan
+- como encontrar determinado dispositivo e o RSSI ("distância" do dispositivo)
 
 ### Aula 4: Conectividade do ESP32
 
 ### Aula 5: Recursos extras
+
+-----------
+instalaão esp-ide https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-1-install-prerequisites
+------------
+tutotias:
+http://labdegaragem.com/profiles/blogs/tutorial-conhecendo-o-esp32-usando-esp-idf-4
+--------------
