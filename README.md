@@ -2,6 +2,8 @@
 
 ## Install ESP-IDF
 
+[ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#get-started-get-esp-idf)
+
 ### Linux - Ubuntu
 
 #### 1 - Setup Toolchain para Linux
