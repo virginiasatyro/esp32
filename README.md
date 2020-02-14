@@ -29,6 +29,8 @@
 
 ```. $HOME/esp/esp-idf/export.sh```
 
+É necessário escrever essa linha de código nos diretórios onde os programas serão compilados!
+
 #### 5 - Iniciar um Projeto
 
 ```cd ~/esp```

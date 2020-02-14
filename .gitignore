@@ -1,0 +1,5 @@
+*/build/*
+../build/*
+*.old
+*.o
+*.a

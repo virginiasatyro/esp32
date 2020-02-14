@@ -1,0 +1,34 @@
+GPIO: características elétricas, tipos, configuraçõe, APIs 
+
+Entradas Digitais 
+
+Saídas digitais 
+
+Display 7 segmentos 
+
+Interrupção 
+
+Técnica de Bit bending - banging 
+
+timers
+
+temporizadores 
+
+watchdog timer 
+
+pwm 
+
+motores DC 
+
+Interface de comunicação USART 
+
+comunicação serial síncrona: i2c, SPI 
+
+RTC 
+
+FreeRTOS 
+
+Conversor analógico digital 
+
+
+
