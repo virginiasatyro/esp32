@@ -1,0 +1,5 @@
+Questionable use of curly braces in "project_name := {delay_timer}"
+    Error: undefined symbol in: "[delay_timer]"
+Circuit: *
+
+Fatal Error: Syntax error in coupled transmission line statement: "project_name := (delay_timer)"
